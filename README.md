@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Django project
 =======
 # GyanUday University — College Management System
@@ -57,4 +56,6 @@ fees/         Fee management, Payment tracking
 results/      Exams, Marks, Signals, Activity Log
 dashboard/    Live dashboard with Chart.js
 ```
->>>>>>> 33e4126 (enhance our project)
+
+Deployment link:
+https://django-p10i.onrender.com
